@@ -1,0 +1,5 @@
+{
+  "name": "task-progress",
+  "owner": { "name": "Chae Kim" },
+  "plugins": [{ "name": "task-progress", "source": "./" }]
+}

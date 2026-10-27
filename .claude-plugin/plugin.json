@@ -1,0 +1,1 @@
+{ "name": "task-progress", "version": "0.1.0", "description": "A calm progress bar above the prompt for the current task list", "types": "./types/index.d.ts" }
