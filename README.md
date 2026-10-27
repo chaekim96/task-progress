@@ -1,3 +1,5 @@
+<p><img src="brand/favicon.svg" width="72" height="72" alt="task-progress mark: a progress bar above a checklist"></p>
+
 # task-progress
 
 A calm progress bar for Claude Code. When Claude works through a multi-step task, a static band above the prompt shows how far along it is, instead of leaving you to read a flickering spinner.
