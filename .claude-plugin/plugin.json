@@ -1,1 +1,14 @@
-{ "name": "task-progress", "version": "0.1.0", "description": "A calm progress bar above the prompt for the current task list", "types": "./types/index.d.ts" }
+{
+  "name": "task-progress",
+  "version": "0.2.0",
+  "description": "A calm progress bar above the prompt for the current task list, with time left, step activity, a done chime, a stuck warning and a context bar",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "sound": {
+      "type": "boolean",
+      "title": "Done chime",
+      "description": "Play a soft chime when a task list finishes",
+      "default": true
+    }
+  }
+}
