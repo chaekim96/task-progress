@@ -1,6 +1,8 @@
-<p><img src="brand/favicon.svg" width="72" height="72" alt="task-progress mark: a progress bar above a checklist"></p>
 
-# task-progress
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/readme/header-dark.png">
+  <img src="brand/readme/header-light.png" alt="task-progress: Seeing how far along a task is, right above the prompt.">
+</picture>
 
 A calm progress bar for Claude Code. When Claude works through a multi-step task, a static band above the prompt shows how far along it is, instead of leaving you to read a flickering spinner.
 
@@ -73,3 +75,7 @@ Tests in `hooks/register.test.tsx` run the band and pane against a fake clock: t
 ---
 
 a Chae Kim build
+
+---
+
+<p align="center"><a href="https://chaekim.vercel.app"><img src="brand/readme/seal.svg" width="10" height="10" alt=""> <sub>a Chae Kim build</sub></a></p>
