@@ -74,8 +74,4 @@ Tests in `hooks/register.test.tsx` run the band and pane against a fake clock: t
 
 ---
 
-a Chae Kim build
-
----
-
 <p align="center"><a href="https://chaekim.vercel.app"><img src="brand/readme/seal.svg" width="10" height="10" alt=""> <sub>a Chae Kim build</sub></a></p>
